@@ -8,5 +8,5 @@
 
 <h3>Html5 & Css3 & Java Scirpt</h3>
 
-<link rel="stylesheet" href="doctors-website.gif">
+![banner resmi](doctors-website.gif)
 
